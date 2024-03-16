@@ -1,0 +1,5 @@
+- Used the yolov5 pretrained custom model api for detecting if a person is drowsy or awake in realtime
+- Used the LabelImg software to label the images
+- Used tkinker for making a simple gui app
+- Made an alarm system if a person dozes off, audio plays (realtime)
+- The accuracy isnt great as i used real time images(some of which were hazy so i guess that might be the cause)
